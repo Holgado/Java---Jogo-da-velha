@@ -6,7 +6,7 @@ Interface no console para jogar digitar as cordenadas da jogada de (x, y)
 
 Exemplo:
 Jogador x fez uma jogada na coordenada (1, 1)
-#     | |
-#     |x| 
-#     | |
+#    __|   |__
+#    __| x |__ 
+#      |   |
 
